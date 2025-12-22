@@ -1,2 +1,2 @@
-# AethelOS
+# AethelOS™
 a microkernel OS
